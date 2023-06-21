@@ -1,0 +1,33 @@
+{
+    "Header": {
+        "Header": "CPM"
+    },
+    "Carrier": {
+        "AirlineDesignator": "EY",
+        "FlightNumber": "015",
+        "DepartureDate": "27",
+        "RegistrationNumber": "A6BMB",
+        "DepartureStation": "AUH"
+    },
+    "ULDs": [
+        {
+            "ULDBayDesignation": "11P",
+            "ULDTypeCode": "PMC71010EY",
+            "UnloadingStation": "MAN",
+            "Weight": "1274",
+            "LoadCategory": [
+                "C"
+            ]
+        }
+    ],
+    "SI": [
+        "SI AUH-MAN",
+        "12L/BJ",
+        "14R/BJ",
+        "13R/WBL (WITHOUT BATTERY)",
+        "CPT5/BT/4",
+        "CPT5/D/11",
+        "CPT5/BLA",
+        "END OF MESSAGE"
+    ]
+}

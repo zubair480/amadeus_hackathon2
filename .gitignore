@@ -1,0 +1,17 @@
+
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+src/SmartParser/parser/Corrector.py
+*.pyc
+*.pyc
+src/SmartParser/parser/__pycache__/Parser.cpython-310.pyc
+src/SmartParser/parser/__pycache__/Rule.cpython-310.pyc
+*.pyc
+*.pyc

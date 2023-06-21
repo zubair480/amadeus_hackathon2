@@ -1,0 +1,42 @@
+{
+    "Header": {
+        "Header": "CPM"
+    },
+    "Carrier": {
+        "AirlineDesignator": "EY",
+        "FlightNumber": "217",
+        "DepartureDate": "27",
+        "RegistrationNumber": "A6BLO"
+    },
+    "ULDs": [
+        {
+            "ULDBayDesignation": "11",
+            "ULDTypeCode": "PLA30312EY",
+            "UnloadingStation": "AUH",
+            "Weight": "740",
+            "LoadCategory": [
+                "C"
+            ]
+        }
+    ],
+    "SI": [
+        "SI BLR-AUH",
+        "34L/BY",
+        "34R/BY",
+        "41L/BY",
+        "41R/BY",
+        "43R/EY653/G1",
+        "42R/EY25/P2",
+        "13R/EY97/G1",
+        "13L/EY131/US",
+        "14R/EY101/US",
+        "42L/EY151/ORD/S",
+        "14/Y2 MIX",
+        "15R/P2 MIX",
+        "12L/G1 MIX",
+        "12R/S MIX",
+        "BULK",
+        "BJ-09//G2 -09//G1-06//R2-05",
+        "END OF MESSAGE"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Header": {
+        "Header": "CPM"
+    },
+    "Carrier": {
+        "AirlineDesignator": "EY",
+        "FlightNumber": "980",
+        "DepartureDate": "21",
+        "RegistrationNumber": "A6DDD",
+        "DepartureStation": "HAN"
+    },
+    "ULDs": [
+        {
+            "ULDBayDesignation": "AL",
+            "ULDTypeCode": "PMC72080EY",
+            "UnloadingStation": "AUH",
+            "Weight": "2140",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "HEA/Q4"
+        },
+        {
+            "ULDBayDesignation": "AR",
+            "ULDTypeCode": "PMC72598EY",
+            "UnloadingStation": "AUH",
+            "Weight": "2075",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "HEA/Q4"
+        },
+        {
+            "ULDBayDesignation": "BL",
+            "ULDTypeCode": "PMC01688EY",
+            "UnloadingStation": "AUH",
+            "Weight": "940",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "PMD/Q5"
+        },
+        {
+            "ULDBayDesignation": "BR",
+            "ULDTypeCode": "PMC77738EY",
+            "UnloadingStation": "AUH",
+            "Weight": "1075",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "PMD/Q5"
+        },
+        {
+            "ULDBayDesignation": "CL",
+            "ULDTypeCode": "PMC73643EY",
+            "UnloadingStation": "AUH",
+            "Weight": "1185",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "PMD/Q5"
+        },
+        {
+            "ULDBayDesignation": "CR",
+            "ULDTypeCode": "PMC74359EY",
+            "UnloadingStation": "AUH",
+            "Weight": "1150",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "PMD/Q5"
+        },
+        {
+            "ULDBayDesignation": "DL",
+            "ULDTypeCode": "PMC73318EY",
+            "UnloadingStation": "AUH",
+            "Weight": "1200",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "PMD/Q5"
+        },
+        {
+            "ULDBayDesignation": "DR",
+            "ULDTypeCode": "PMC01288EY",
+            "UnloadingStation": "AUH",
+            "Weight": "1080",
+            "LoadCategory": [
+                "C"
+            ],
+            "ContourCode": "PMD/Q5"
+        }
+    ]
+}
